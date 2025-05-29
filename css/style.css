@@ -65,6 +65,7 @@ body {
 
 p {
     font-size: 19px;
+    font-weight: 600;
 }
 
 .editorial {
@@ -125,4 +126,8 @@ p {
     padding: 14px;
     padding-top: 6px;
     padding-bottom: 6px;
+}
+
+span {
+    font-weight: 600;
 }
