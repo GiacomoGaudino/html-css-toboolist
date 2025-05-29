@@ -21,11 +21,14 @@ body {
 }
 
 .container {
-    background-color: white;
     max-width: 1080px;
     margin: 0 auto;
-    margin-top: 40px;
-    padding: 15px;
+    margin-top: 45px;
+}
+
+#button {
+    padding: 16px;
+    background-color: white;
 }
 
 #add-task {
@@ -43,8 +46,23 @@ body {
     height: 30px;
     width: 100px;
     border-radius: 5px;
-    border-color: #d5d9dd;
+    border-color: #b0b2b6;
     background-color: white;
-    color: #d5d9dd;
+    color: #8e9296;
     vertical-align: middle;
+}
+
+.task {
+    background-color: white;
+    padding: 20px;
+    margin-top: 3px;
+    padding-left: 60px;
+}
+
+.list-task {
+    font-size: 23px;
+}
+
+p {
+    font-size: 19px;
 }
