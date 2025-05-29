@@ -19,3 +19,32 @@ body {
     font-size: 50px;
     vertical-align: middle;
 }
+
+.container {
+    background-color: white;
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 15px;
+}
+
+#add-task {
+    margin-left: 50px;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    background-color: #47adf1;
+    vertical-align: middle;
+}
+
+#add-section {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: #d5d9dd;
+    background-color: white;
+    color: #d5d9dd;
+    vertical-align: middle;
+}
