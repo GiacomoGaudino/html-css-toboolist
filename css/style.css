@@ -140,3 +140,12 @@ span {
     border-radius: 50px;
     border-color: rgb(7, 233, 180);
 }
+
+.simbol-2 {
+    color: red;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: red;
+}
