@@ -177,10 +177,11 @@ span {
     padding: 35px;
     background-color: white;
     text-align: right;
+    padding-bottom: 15px;
 }
 
 #logo-footer {
-    width: 30px;
+    width: 20px;
     vertical-align: middle;
 }
 
