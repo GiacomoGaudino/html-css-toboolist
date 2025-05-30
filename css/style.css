@@ -4,6 +4,10 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+main {
+    margin-bottom: 50px;
+}
+
 .title {
     background-color: white;
     padding: 15px;
@@ -60,6 +64,8 @@ body {
     padding: 20px;
     margin-top: 3px;
     padding-left: 60px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 .list-task {
@@ -165,4 +171,19 @@ span {
     border-radius: 50px;
     border-color: red;
     font-size: 10px;
+}
+
+#footer {
+    padding: 35px;
+    background-color: white;
+    text-align: right;
+}
+
+#logo-footer {
+    width: 30px;
+    vertical-align: middle;
+}
+
+#toboolist-footer {
+    margin: 0px;
 }
